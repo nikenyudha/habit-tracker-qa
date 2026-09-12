@@ -103,14 +103,14 @@ Screenshots and other testing evidence can be found in:
 
 ## 📊 Test Summary
 
-| Metric           | Result | Percentage |
-| ---------------- | -----: |            |
-| Total Test Cases |     17 |        100%|
-| Passed           |     17 |        100%|
-| Failed           |      0 |          0%|
-| Blocked          |      0 |          0%|
-| Not Run          |      0 |          0%|
-| Pass Rate (%)    |    100%|        100%|
+| Metric           | Result |
+| ---------------- | -----: |
+| Total Test Cases |     17 |
+| Passed           |     17 |
+| Failed           |      0 |
+| Blocked          |      0 |
+| Not Run          |      0 |
+| Pass Rate        |   100% |
 
 > This section is updated after test execution.
 
